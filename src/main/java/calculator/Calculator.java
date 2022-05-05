@@ -1,6 +1,7 @@
 package calculator;
 
 public class Calculator {
+
     public Double sum(double... numbers) {
         double sum = 0;
 
